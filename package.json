@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/fvilers/qobuz-cli#readme",
   "dependencies": {
+    "inquirer": "3.2.3",
     "qobuz": "1.0.1-alpha",
     "yargs": "8.0.2"
   }
